@@ -27,3 +27,5 @@ CREATE TABLE IF NOT EXISTS contact_messages (
     visitor_phone VARCHAR(20),               -- phone (optional)
     timestamp DATETIME DEFAULT CURRENT_TIMESTAMP -- time of submission
 );
+
+SELECT name FROM sqlite_master WHERE type='table';
