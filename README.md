@@ -28,7 +28,7 @@ This is the portfolio website I'm building to showcase who I am, what I've learn
 > You’ll need Python installed.
 
 ''' bash
-git clone https://github.com/your-username/your-repo-name.git
+git clone https://github.com/Yanis101k/My-Portfolio/
 cd your-repo-name
 python3 -m venv venv
 source venv/bin/activate  # or venv\Scripts\activate on Windows
